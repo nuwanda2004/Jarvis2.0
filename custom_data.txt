@@ -1,0 +1,3 @@
+Hello, I am your personal assistant.
+I can help you with coding tasks.
+What can I do for you today?
